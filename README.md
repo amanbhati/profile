@@ -1,3 +1,4 @@
+![logo](https://github.com/amanbhati/profile/blob/main/1688879057749.jpeg)
 <h1 align="center">Hi 👋, I'm Aman Kumar Bhati</h1>
 <h3 align="center">CSE Student</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU">

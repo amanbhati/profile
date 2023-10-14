@@ -1,7 +1,7 @@
 ![logo](https://github.com/amanbhati/profile/blob/main/1688879057749.jpeg)
 <h1 align="center">Hi 👋, I'm Aman Kumar Bhati</h1>
 <h3 align="center">CSE Student</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanb9154&label=Profile%20views&color=0e75b6&style=flat" alt="amanb9154" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanb9154" alt="amanb9154" /></a> </p>
